@@ -12,7 +12,7 @@ This project is inspired by previous work: [ENG-TO-BHOJPURI GitHub Repository](h
 
 ### Image
 
-![App Screenshot](https://raw.githubusercontent.com/NilayShenai/English-to-Bhojpuri-Translator/main/images/screenshot.jpg)
+![App Screenshot](https://github.com/NilayShenai/English-to-Bhojpuri-Translator/blob/main/images/screenshot.jpg)
 
 *Sample screenshot of the English-to-Bhojpuri Translator web application.*
 
